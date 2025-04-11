@@ -1,5 +1,5 @@
 # butterfly_pea
-data on butterfly pea setting time
+# data on butterfly pea setting time
 Gelling_Agent – Categorical (Agar v.s Gelatin)
 
 Acidity – Categorical (Yes v.s No)
